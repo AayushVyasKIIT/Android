@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string-array name="MathFunc">
+        <item>factorial</item>
+        <item>fib</item>
+    </string-array>
+</resources>
