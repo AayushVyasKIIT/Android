@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">salebuy</string>
+    <string-array name="gender">
+        <item>Choose your gender her</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
